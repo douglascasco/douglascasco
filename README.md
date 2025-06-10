@@ -85,7 +85,7 @@
 <!--profile visit count-->
 <div align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=douglascasco&icon=3&color=6" />
+    <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" />
   </a>
 </div>
 
