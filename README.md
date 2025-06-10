@@ -101,7 +101,7 @@
 
 <!--icons and links-->
 <p align="center">
-  <a href="(https://www.linkedin.com/in/douglas-josue-casco-herrera/)" target="_blank"><img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/douglas-josue-casco-herrera/" target="_blank"><img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="50" width="50" /></a>
   <a href="https://github.com/douglascasco" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="50" width="50" /></a>
   <a href="mailto:herreradouglas919@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="50" width="50" /></a>
 </p>
