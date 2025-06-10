@@ -16,7 +16,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">La constancia supera al talento cuando el talento no se esfuerza</h2></summary>
+    <summary><h2 style="display: inline-block">Los Sueños no se cumplen solo siendo Sueños! </h2></summary>
   </ul>
 </div>
 
