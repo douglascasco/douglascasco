@@ -30,23 +30,6 @@
 - 🔗 Repositorio: [github.com/douglascasco](https://github.com/douglascasco)
 <!--Intro end-->
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-  <table align="center">
-    <tr border="none">
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=douglascasco&theme=dark&show_icons=true&count_private=true" />
-        <br><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=douglascasco&theme=dark&hide_border=false" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=douglascasco&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
-      </td>
-    </tr>
-  </table>
-</p>
-
 <!--- trophy (start) -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
